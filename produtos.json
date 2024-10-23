@@ -1,0 +1,39 @@
+[
+    {
+        "nome": "Calça Jeans M",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/calsa.jpg"
+
+    },
+    {
+        "nome": "Tenis Esportivo M",
+        "tamanho": 43,
+        "preco": 289.9,
+        "imagem": "img/tenis.jpg"
+    },
+    {
+        "nome": "Camisa Poliester Branca M",
+        "tamanho": "GG",
+        "preco": 99.90,
+        "imagem": "img/camisa.jpg"
+    },
+    {
+        "nome": "Conjunto de Meias Puma",
+        "tamanho": 43,
+        "preco": 79.99,
+        "imagem": "img/meia.jpg"
+    }
+    {
+        "nome": "Shorts Esportivo M",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/short.jpg"
+    },
+    {
+        "nome": "Jaqueta M",
+        "tamanho": "GG",
+        "preco": 139.99,
+        "imagem": "img/jaqueta.jpg"
+    }
+]
